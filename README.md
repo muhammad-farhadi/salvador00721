@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Muhammad
+- 👀 I’m interested in web and video games
+- 🌱 I’m currently learning python
